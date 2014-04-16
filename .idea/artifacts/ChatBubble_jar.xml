@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatBubble:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatBubble_jar</output-path>
+    <root id="archive" name="ChatBubble.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="ChatBubble" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/junit-4.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
